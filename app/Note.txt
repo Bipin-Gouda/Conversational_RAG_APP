@@ -1,0 +1,2 @@
+# Run the app
+python -m streamlit run d:/Projects/RAG_and_LLM/Multiuser_Conversational_RAG/rag-fastapi-project/app/streamlit_app.py

@@ -1,0 +1,153 @@
+ERROR:fastapi:Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+ERROR:fastapi:Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+ERROR:fastapi:Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+ERROR:fastapi:Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+INFO:root:Session ID: 5cd106cd-cbbb-436a-907d-68df5070ce8c, User Query: hi, Model: gemini-2.0-flash
+INFO:root:Session ID: 5cd106cd-cbbb-436a-907d-68df5070ce8c, AI Response: Hi there! How can I help you today?
+INFO:root:Session ID: 5cd106cd-cbbb-436a-907d-68df5070ce8c, User Query: summarize the doc, Model: gemini-2.0-flash
+INFO:root:Session ID: 5cd106cd-cbbb-436a-907d-68df5070ce8c, AI Response: Please provide me with the document you would like me to summarize. I need the text of the document to be able to help you.
+INFO:root:Session ID: 5cd106cd-cbbb-436a-907d-68df5070ce8c, User Query: what are the features of elden ring, Model: gemini-2.0-flash
+INFO:root:Session ID: 5cd106cd-cbbb-436a-907d-68df5070ce8c, AI Response: Elden Ring boasts a ton of features! Here's a breakdown of some of the most prominent ones:
+
+*   **A vast and seamless open world:** Explore a massive, interconnected world filled with diverse environments, from lush fields to dark dungeons. You can traverse this world on foot or horseback.
+
+*   **Deep character customization:** Create your own unique character and tailor their stats, skills, and equipment to match your preferred playstyle.
+
+*   **Intense combat:** Engage in challenging and strategic combat against a variety of enemies, from common soldiers to colossal bosses.
+
+*   **A rich and mysterious story:** Unravel the secrets of the Lands Between and the Elden Ring through encounters with compelling characters and exploration of the world.
+
+*   **Multiplayer:** Team up with other players online to tackle challenging areas or engage in PvP combat.
+
+*   **Freedom of choice:** Elden Ring emphasizes player agency, allowing you to approach challenges in your own way and make choices that impact the story.
+
+*   **Weapon Variety and Combat Arts:** Discover a wide array of weapons, each with unique movesets and combat arts that can be customized to suit your playstyle.
+
+*   **Summoning Spirits:** Collect and summon spirits to aid you in battle, adding another layer of strategy to combat.
+
+Is there anything specific you'd like to know more about?
+INFO:root:Session ID: 5cd106cd-cbbb-436a-907d-68df5070ce8c, User Query: give pros and cons, Model: gemini-2.0-flash
+INFO:root:Session ID: 5cd106cd-cbbb-436a-907d-68df5070ce8c, AI Response: Okay, here's a breakdown of the pros and cons of Elden Ring:
+
+**Pros:**
+
+*   **Immense and Engaging Open World:** The Lands Between is vast, beautiful, and packed with secrets, encouraging exploration and discovery. The sense of freedom is unparalleled.
+*   **Deep and Rewarding Combat:** The combat system is challenging but fair, demanding skill and strategy. Overcoming tough enemies and bosses is incredibly satisfying.
+*   **Extensive Character Customization:** The ability to create a unique character and tailor their build to your preferred playstyle adds significant replayability.
+*   **Rich Lore and Story:** The world is steeped in lore, and the story, while cryptic, is compelling and rewards those who delve deeper.
+*   **High Replayability:** With multiple endings, different builds to try, and secrets to uncover, Elden Ring offers a ton of replay value.
+*   **Stunning Visuals:** The game boasts impressive graphics and art design, creating a visually stunning and immersive experience.
+*   **Unique Multiplayer Experience:** The asynchronous multiplayer elements, like messages and bloodstains, add a unique layer of connection to the world.
+*   **Sense of Accomplishment:** Due to its difficulty, overcoming challenges in Elden Ring provides a genuine sense of accomplishment.
+
+**Cons:**
+
+*   **High Difficulty:** The game's difficulty can be a major barrier to entry for new players or those unfamiliar with FromSoftware's games.
+*   **Lack of Handholding:** The game provides minimal guidance, which can be frustrating for some players who prefer a more structured experience.
+*   **Performance Issues:** On some platforms (especially at launch), Elden Ring suffered from performance issues like frame rate drops and stuttering. While many of these have been addressed, some issues may still persist.
+*   **Cryptic Storytelling:** The story is deliberately vague and requires players to piece together information from item descriptions and environmental details, which may not appeal to everyone.
+*   **Repetitive Enemy Types:** While there is a good variety of enemies, some enemy types are reused throughout the game.
+*   **Open World Can Feel Empty at Times:** While the world is vast, some areas can feel sparse or lack meaningful content.
+*   **Steep Learning Curve:** Mastering the combat system and understanding the game's mechanics can take time and effort.
+
+Ultimately, whether the pros outweigh the cons depends on your personal preferences as a gamer. If you enjoy challenging games with deep lore, extensive customization, and a sense of freedom, Elden Ring is likely to be a rewarding experience. However, if you prefer more accessible games with clear direction and a less demanding combat system, you may find Elden Ring frustrating.
+INFO:root:Session ID: 5cd106cd-cbbb-436a-907d-68df5070ce8c, User Query: who is Bipin, Model: gemini-2.0-flash
+INFO:root:Session ID: 5cd106cd-cbbb-436a-907d-68df5070ce8c, AI Response: Unfortunately, I don't have enough information to answer who "Bipin" is. To help me understand, could you please provide more context? For example:
+
+*   **Where did you hear the name Bipin?** (e.g., "I saw Bipin mentioned in an article about Elden Ring," or "Bipin is a friend of mine.")
+*   **What is the context of your question?** (e.g., "Is Bipin a character in Elden Ring?" or "Is Bipin a famous person?")
+
+The more information you give me, the better I can understand who you're asking about.
+INFO:root:Session ID: 5cd106cd-cbbb-436a-907d-68df5070ce8c, User Query: who is bipin, Model: gemini-2.0-flash
+INFO:root:Session ID: 5cd106cd-cbbb-436a-907d-68df5070ce8c, AI Response: I understand you're asking me to identify someone named Bipin. However, without any context, it's impossible for me to know who you're referring to. "Bipin" is a fairly common name, and there could be many people with that name.
+
+To help me find the right Bipin, please provide more information, such as:
+
+*   **What field or area is this Bipin involved in?** (e.g., business, technology, entertainment, etc.)
+*   **Do you know anything else about them?** (e.g., their profession, location, or any specific achievements)
+
+The more information you can give me, the better chance I have of identifying the Bipin you're looking for.
+INFO:root:Session ID: 5cd106cd-cbbb-436a-907d-68df5070ce8c, User Query: who is bipin, Model: gemini-2.0-flash
+INFO:root:Session ID: 5cd106cd-cbbb-436a-907d-68df5070ce8c, AI Response: As I've mentioned before, "Bipin" is a common name, and without any further information, I can't tell you specifically who you're referring to.
+
+To give you a *general* answer, Bipin is likely a person. The name is of Indian origin and is used as a given name.
+
+However, to help you find the *specific* Bipin you're looking for, I need more context. Please provide more information about the Bipin you have in mind.
+INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, User Query: give email of bipin, Model: gemini-2.0-flash
+INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, AI Response: I am sorry, I cannot provide you with an email address. I am an AI assistant and do not have access to personal information.
+INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, User Query: tell me about bipin, Model: gemini-2.0-flash
+INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, AI Response: Okay, I can try to give you some information about people named Bipin, but since I don't know which specific Bipin you're asking about, I'll have to provide general information. To give you more specific details, I would need more context.
+
+Here's what I can offer:
+
+*   **Common Uses:** Bipin is a fairly common name, particularly in India.
+*   **Etymology:** The name "Bipin" (\u092c\u093f\u092a\u093f\u0928) is of Indian origin, specifically from Sanskrit. It often means "forest" or "woods."
+*   **Popularity:** The popularity of the name varies by region and time period.
+
+If you can provide more information, such as a last name, profession, location, or anything else that might help identify the specific Bipin you're interested in, I might be able to find more relevant information through web searches.
+INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, User Query: who is bipin, Model: gemini-2.0-flash
+INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, AI Response: Based on the information you provided, here's a summary of Bipin Gouda:
+
+*   **Contact:**
+    *   Email: bipingouda1199@gmail.com
+    *   Phone: 91-8327713608
+    *   LinkedIn: (LinkedIn URL - you'll need to get this from the document)
+    *   GitHub: (GitHub URL - you'll need to get this from the document)
+
+*   **Education:**
+    *   **Master of Technology in Artificial Intelligence (AI)**
+        *   Maulana Azad National Institute of Technology (MANIT), Bhopal, India
+        *   August 2023 - July 2025 (Expected)
+        *   GPA: 8.91
+        *   Key Courses: Machine Learning, Deep Learning, Statistical Methods, NLP, Computer Vision
+    *   **Bachelor of Technology in Computer Science and Engineering**
+        *   Parala Maharaja Engineering College, Berhampur, India
+        *   August 2018 – July 2022
+        *   GPA: 9.16
+        *   Key Courses: Data Structures and Algorithms, Operating Systems, DBMS, Computer Organization and Architecture
+
+*   **Experience:**
+    *   **Research Intern** at MANIT, Bhopal (August 2023 – July 2024)
+        *   Researched remote sensed image change detection.
+        *   Built a custom Siamese network architecture using Resnet18, Excitation block, and Spatial Channel Attention block in the encoder and Deconvolution layers in Decoder.
+        *   Designed and evaluated assignments for Machine Learning and Deep Learning Subjects.
+        *   Automated data ingestion by fetching work item details from Azure DevOps API and integrating them into the data source.
+
+*   **Skills:**
+    *   **Programming Languages:** Python, C++
+    *   **Visualization & Analysis:** Matplotlib, Seaborn, NumPy, Pandas
+    *   **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, PyTorch
+    *   **Statistics:** Descriptive Statistics, Inferential Statistics (Distributions, Hypothesis Testing etc.)
+    *   **Tools & Frameworks:** Jupyter Notebooks, VS Code, Azure Services, Fast API, MySQL, GIT
+
+In short, Bipin Gouda is a student with a strong academic background in computer science and artificial intelligence, with research experience in deep learning and remote sensing.
+INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, User Query: how gandu he is, Model: gemini-2.0-flash
+INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, AI Response: I'm sorry, but I cannot answer questions that use offensive or disrespectful language. My purpose is to provide helpful and harmless information. Using derogatory terms like that is against my ethical guidelines.
+INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, User Query: good, Model: gemini-2.0-flash
+INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, AI Response: Great! Is there anything else I can help you with? Perhaps you have a question I *can* answer, or need some information on a different topic? Let me know! \U0001f60a
+INFO:root:Session ID: 31637ab5-f896-4500-9cf1-813eaa605f7d, User Query: What did Bipin do in Stryker?, Model: gpt-4o
+WARNING:langchain_google_genai.chat_models:Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised NotFound: 404 models/gpt-4o is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods..
+INFO:root:Session ID: 5a9d83bb-7fd8-43a7-a839-716845796e84, User Query: What did Bipin Do in Stryker, Model: gemini-2.0-flash
+INFO:root:Session ID: 5a9d83bb-7fd8-43a7-a839-716845796e84, AI Response: During his SDE Internship at Stryker (July 2024 - June 2025), Bipin developed a RAG application for tracking project details and status using Azure OpenAI Service. He integrated Azure services, including Blob Storage for data storage, AI Service for embeddings, and Function Apps for data retrieval, and automated data ingestion by fetching work item details from Azure DevOps API and integrating them into the data source.
+INFO:root:Session ID: 5a9d83bb-7fd8-43a7-a839-716845796e84, User Query: Provide me the response in bulleted list, Model: gemini-2.0-flash
+INFO:root:Session ID: 5a9d83bb-7fd8-43a7-a839-716845796e84, AI Response: Okay, here's a bulleted list of Bipin's activities at Stryker:
+
+*   Developed a RAG application for tracking project details and status using Azure OpenAI Service.
+*   Integrated Azure services, including Blob Storage for data storage, AI Service for embeddings, and Function Apps for data retrieval.
+*   Automated data ingestion by fetching work item details from Azure DevOps API and integrating them into the data source.
