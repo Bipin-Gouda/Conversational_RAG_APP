@@ -79,5 +79,6 @@ streamlit run app.py
 
 Feel free to submit issues and pull requests to improve the project!
 
+SS of the Working Application
 
-
+![alt text](image.png)
