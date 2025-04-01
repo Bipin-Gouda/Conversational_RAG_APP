@@ -118,12 +118,12 @@ INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, AI Response: Based o
         *   Key Courses: Machine Learning, Deep Learning, Statistical Methods, NLP, Computer Vision
     *   **Bachelor of Technology in Computer Science and Engineering**
         *   Parala Maharaja Engineering College, Berhampur, India
-        *   August 2018 – July 2022
+        *   August 2018 ï¿½ July 2022
         *   GPA: 9.16
         *   Key Courses: Data Structures and Algorithms, Operating Systems, DBMS, Computer Organization and Architecture
 
 *   **Experience:**
-    *   **Research Intern** at MANIT, Bhopal (August 2023 – July 2024)
+    *   **Research Intern** at MANIT, Bhopal (August 2023 ï¿½ July 2024)
         *   Researched remote sensed image change detection.
         *   Built a custom Siamese network architecture using Resnet18, Excitation block, and Spatial Channel Attention block in the encoder and Deconvolution layers in Decoder.
         *   Designed and evaluated assignments for Machine Learning and Deep Learning Subjects.
@@ -137,8 +137,6 @@ INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, AI Response: Based o
     *   **Tools & Frameworks:** Jupyter Notebooks, VS Code, Azure Services, Fast API, MySQL, GIT
 
 In short, Bipin Gouda is a student with a strong academic background in computer science and artificial intelligence, with research experience in deep learning and remote sensing.
-INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, User Query: how gandu he is, Model: gemini-2.0-flash
-INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, AI Response: I'm sorry, but I cannot answer questions that use offensive or disrespectful language. My purpose is to provide helpful and harmless information. Using derogatory terms like that is against my ethical guidelines.
 INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, User Query: good, Model: gemini-2.0-flash
 INFO:root:Session ID: f20d4647-13c8-4bba-8cda-1eb523885974, AI Response: Great! Is there anything else I can help you with? Perhaps you have a question I *can* answer, or need some information on a different topic? Let me know! \U0001f60a
 INFO:root:Session ID: 31637ab5-f896-4500-9cf1-813eaa605f7d, User Query: What did Bipin do in Stryker?, Model: gpt-4o
@@ -151,3 +149,25 @@ INFO:root:Session ID: 5a9d83bb-7fd8-43a7-a839-716845796e84, AI Response: Okay, h
 *   Developed a RAG application for tracking project details and status using Azure OpenAI Service.
 *   Integrated Azure services, including Blob Storage for data storage, AI Service for embeddings, and Function Apps for data retrieval.
 *   Automated data ingestion by fetching work item details from Azure DevOps API and integrating them into the data source.
+INFO:root:Session ID: bd57b599-fab1-468b-a0e4-c11f5ecf6dbb, User Query: Highlight the skills of Bipin, Model: gemini-2.0-flash
+INFO:root:Session ID: bd57b599-fab1-468b-a0e4-c11f5ecf6dbb, AI Response: Bipin Gouda's skills include:
+
+*   **Machine Learning:** Experience with various classification algorithms, XGBoost, SVM.
+*   **Deep Learning:** CNN, Transfer Learning.
+*   **Natural Language Processing (NLP)**
+*   **Computer Vision**
+*   **Statistical Methods**
+*   **Data Structures and Algorithms**
+*   **Operating Systems**
+*   **DBMS**
+*   **Computer Organization and Architecture**
+*   **Tools & Frameworks:** Jupyter Notebooks, VS Code, Azure Services, Fast API, MySQL, GIT, OpenCV, TensorFlow.
+INFO:root:Session ID: bd57b599-fab1-468b-a0e4-c11f5ecf6dbb, User Query: Highlight the skills of Bipin in a good representable manner, Model: gemini-2.0-flash
+INFO:root:Session ID: bd57b599-fab1-468b-a0e4-c11f5ecf6dbb, AI Response: **Bipin Gouda's Key Skills:**
+
+*   **Artificial Intelligence & Machine Learning:** Deep understanding of Machine Learning algorithms (including XGBoost, SVM), Deep Learning (CNN, Transfer Learning), Natural Language Processing (NLP), Computer Vision, and Statistical Methods.
+*   **Software Development & Tools:** Proficient in programming with experience using Jupyter Notebooks, VS Code, Azure Services, Fast API, MySQL, and GIT.
+*   **Data Analysis & Manipulation:** Skilled in data analysis and manipulation.
+*   **Core Computer Science Fundamentals:** Solid foundation in Data Structures and Algorithms, Operating Systems, DBMS, and Computer Organization and Architecture.
+*   **Image Processing:** Experience with OpenCV for image capture and processing.
+*   **Deep Learning Frameworks:** TensorFlow.

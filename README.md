@@ -26,15 +26,13 @@ This project is a **Conversational Retrieval-Augmented Generation (RAG) system**
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/Conversational_RAG_APP.git
+git clone https://github.com/Bipin-Gouda/Conversational_RAG_APP.git
 cd Conversational_RAG_APP
 ```
 
 ### 2️⃣ Create a Virtual Environment & Install Dependencies
 
 ```sh
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -44,7 +42,6 @@ Create a `.env` file and add your API keys:
 
 ```
 GEMINI_API_KEY=your_google_gemini_api_key
-DATABASE_URL=sqlite:///chat_history.db
 ```
 
 ### 4️⃣ Start the Flask Backend
